@@ -90,6 +90,8 @@ May 2019 - May 2020
 * The mandate of the Finance Committee is review the financial affairs of the Union, make decisions regarding the student spaces of UMSU, and create new full-time positions.
 
 ### **Volunteer At Science Rendezvous** - *University Of Manitoba*
+Winnipeg,MB
+May 2018-May 2020
 
 * Science Rendezvou is the largest science festival in canada.This free all-day event aims to highlight and promote great science in Canada. The target audience is the general public, parents, children and youth, with an ultimate aim of improving enrolment and investment in sciences and technology in the future.
 
