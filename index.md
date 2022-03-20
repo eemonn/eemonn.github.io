@@ -39,6 +39,7 @@ ___
 | Tools/Technologies | Gitlab, Git, Github, MySQL, R Studio, Eclipse, Sqlite3, Neo4J, Android Studio, Vim, VMware, VS Code, IntelliJ, MS Office Suite/Office365 |
 | Operating Systems |  MacOS, Windows, Unix, Linux, Andriod |
 
+---
 
 # Projects
 
@@ -62,12 +63,14 @@ ___
 
 ### **Tutor** - *Varsity Tutors*
 Missouri, USA
+
 December 2021- Present
 
 * Teach students from wide range of fields such as middle school, high school, college , university etc. Most of my teachings are on STEM subjects. Studets come with thier academic problem i give them instructions and help them to solve problems.
 
 ### **Software Development Intern (Remote)** - *Gao Tek Inc.*
 Newyork, USA
+
 September 2021 - November 2021
 
 * Worked in several teams to develop websites on wordpress. Also used raw HTM/CSS integration with various websites.
@@ -79,18 +82,21 @@ September 2021 - November 2021
 
 ### **Executive Member At Member Service Committee** - *University Of Manitoba Student Union*
 Winnipeg,MB
+
 May 2018 - May 2019
 
 * The mandate of the Member Services Committee shall be to review the administration and operation of all services provided to students by UMSU(university of manitoba student union), manage all policies and procedures related to the implementation, continuation, termination, or creation of UMSU Services.
 
 ### **Executive Member At Finance Committee** - *University Of Manitoba Student Union*
 Winnipeg,MB
+
 May 2019 - May 2020
 
 * The mandate of the Finance Committee is review the financial affairs of the Union, make decisions regarding the student spaces of UMSU, and create new full-time positions.
 
 ### **Volunteer At Science Rendezvous** - *University Of Manitoba*
 Winnipeg,MB
+
 May 2018-May 2020
 
 * Science Rendezvou is the largest science festival in canada.This free all-day event aims to highlight and promote great science in Canada. The target audience is the general public, parents, children and youth, with an ultimate aim of improving enrolment and investment in sciences and technology in the future.
