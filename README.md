@@ -8,12 +8,12 @@ The purpose of this readme is how to write a resume in Markdown and host it onli
 
 ## **Prerequisites**
 
-- A Markdown Editor.
+- Prerequiaites are :
     -  Best markdown editors are listed here in [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
     
     - For formatting a resume in markdown go to the markdown tutorial here in [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
     
-    - you can have a look a sample resume here in [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
+    - you can have a look a sample resume here in [Sample resume](https://github.com/eemonn/eemonn.github.io/blob/main/index.md)
     
     - A tutorial on how to get started with github is here [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
 
@@ -118,7 +118,7 @@ Now, we have github account. We need to upload the resume on Github. For this, W
 
 This document is written by S M Rukunujjaman with the help of Andrew Etter's book `Modern Technical Writing`.
 
-I would like to thank you my course instructor Stewart Wilcox for giving us instructions on how we should effectively do this in his course Technical Communication in Computer Science. Also would like to thank my group members with whom i dicussed how to make it better with proper wriring.
+I would like to thank  my course instructor Stewart Wilcox for giving us instructions on how we should effectively do this in his course Technical Communication in Computer Science. Also would like to thank my group members with whom i dicussed how to make it better with proper writing.
 
 
 
@@ -126,11 +126,11 @@ I would like to thank you my course instructor Stewart Wilcox for giving us inst
 
 ### **Why is Markdown better than a word processor?**
 
-Markdown is secure compared to word processor because markdown is more readable and has more structured output. Markdown is very easy to learn, Since it is a plaintext editor you can use any editor you want. The benefit it provides over a word processor is that due to Markdown's structure and syntax, it can easily be rendered and processed by computers and other programs.
+Markdown is secure compared to word processor because markdown is more readable and has more structured output. Markdown is very easy to learn, Since it is a plaintext editor you can use any editor you want to edit it. The benefit it provides over a word processor is that due to Markdown's structure and syntax, it can easily be rendered and processed by computers and other programs. Also, mardown is fast, easy to format without having to take your hands off the keyboard.
 
 ### **Why is my resume not showing up?**
 
-It sometimes take time to show the github pages .So if the resume does not show up right away, check back in after a few minutes. sometimes when you change the theme that does not applied right away, it may take several minutes to process the task. You can wait for the few minutes for the show up. If then also it's not showing properly just close the current github tab and reopen github in another tab. It will solve this prolem then. In addition to that do the following steps properly
+It sometimes take time to show the github pages .So if the resume does not show up right away, check back in after a few minutes. sometimes when you change the theme it does not applied right away, it may take several minutes for showing up. So, you can wait few minutes for the showing up the resume. If then also it's not showing properly just close the current github tab and reopen github in another tab. It will solve this prolem then. In addition to that do the following steps properly
 
 - The repository is named `<YourUsername>.github.io` where `<YourUsername>` is your `GitHub username`
 - mardown resume must be named `index.md` and your resume is published in github pages under `Settings`. 
