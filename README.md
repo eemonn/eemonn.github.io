@@ -9,13 +9,13 @@ The purpose of this readme is how to write a resume in Markdown and host it onli
 ## **Prerequisites**
 
 - A Markdown Editor.
-    -  Best markdown editors are listed here in [More Resorces]
+    -  Best markdown editors are listed here in [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
     
-    - For formatting a resume in markdown go to the markdown tutorial here
+    - For formatting a resume in markdown go to the markdown tutorial here in [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
     
-    - you can have a look a sample resume here in
+    - you can have a look a sample resume here in [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
     
-    - A tutorial on how to get started with github is here
+    - A tutorial on how to get started with github is here [More Resorces](https://github.com/eemonn/eemonn.github.io/blob/main/README.md#more-resources)
 
 
 ## **Instructions**
@@ -111,6 +111,8 @@ Now, we have github account. We need to upload the resume on Github. For this, W
     
     ![Static website](resume.gif) 
     
+
+
 
 ## **Authors and Acknowledgement**
 
