@@ -9,7 +9,7 @@ The purpose of this readme is how to write a resume in Markdown and host it onli
 ## **Prerequisites**
 
 - A Markdown Editor.
-    -  Best markdown editors are listed here in
+    -  Best markdown editors are listed here in [More Resorces]
     
     - For formatting a resume in markdown go to the markdown tutorial here
     
@@ -109,7 +109,7 @@ Now, we have github account. We need to upload the resume on Github. For this, W
     
     The final Static site should look like this:
     
-    [Static website](resume.gif) 
+    ![Static website](resume.gif) 
     
 
 ## **Authors and Acknowledgement**
